@@ -1,0 +1,5 @@
+{
+  "name": "BlueprintAI",
+  "description": "An application that uses AI to generate the necessary command-line instructions for creating a new GitHub repository based on user specifications.",
+  "requestFramePermissions": []
+}
